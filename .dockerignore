@@ -1,0 +1,10 @@
+.env
+nohup.out
+*.swp
+*.tmp
+*_py
+*.json
+
+__pycache__/
+logs/
+pyven/
