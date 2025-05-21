@@ -1,5 +1,13 @@
 # Changelog
 
+#### 0.2.0 docker
+
+[0.2.0] - 2025-05-21
+  - Introduced Dockerized installation method for easier setup and management.
+  - Updated `README.md` to focus on Docker installation for Linux and Windows, including detailed prerequisites for Git and Docker, installation steps, and removal instructions.
+  - Added a "Credits" section to `README.md` acknowledging the project's origin as a fork.
+  - Modified `install.dock.sh` to include user-friendly `.env` file creation with prompting for essential configuration, and added a `--restart always` policy to the Docker container.
+
 #### 0.2.0
 
 [0.2.0] - 2025-03-10

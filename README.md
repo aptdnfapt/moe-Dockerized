@@ -63,7 +63,7 @@ After creating the bot, you'll need to invite it to your Discord server. You can
 Open your terminal (Linux) or PowerShell/Command Prompt (Windows) and clone this repository:
 
 ```bash
-git clone https://github.com/monk-afk/moe.git
+git clone https://github.com/aptdnfapt/moe-Dockerized.git
 cd moe
 ```
 
@@ -154,7 +154,11 @@ ___
 
 ## Credits
 
-Thanks to [SeVile/MusicBot](https://github.com/SeVile/MusicBot) for the fork and to Jagrosh for the original JMusicBot project.
+This project is a Dockerized fork of [møe by monk-afk](https://github.com/monk-afk/moe).
+
+Thanks to monk-afk for the original project.
+
+This fork is maintained by aptdnfapt: [https://github.com/aptdnfapt/moe-Dockerized.git](https://github.com/aptdnfapt/moe-Dockerized.git)
 
 ___
 
